@@ -9,9 +9,9 @@
 
 [SKILLS](#skills) | [EDUCATION](#education) | [PROJECTS](#projects) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/carlos-marfil-55875324a/)
 
-After working for years in the lead Art + Tech organisation in the UK (FACT Liverpool), I am expanding my career by becoming a Software Developer. As a Creative Producer at FACT, I had the chance to manage and coordinate multiple projects involving incredibly inspiring Softare Developers - watching and learning about their work appealed to my eagerness to learn and to develop as a professional. I wanted to learn how they make *the magic* happen. 
+After working for years in the lead Art + Tech organisation in the UK (FACT Liverpool), I am embracing tech fully and becoming a Full Stack Software Developer. As a Creative Producer at FACT, I had the chance to manage and coordinate multiple projects. Those involved, most of the time, incredibly talented Software Developers - watching and learning from them fed my curiosity, inspiring me to be better. I wanted to learn how they made *the magic* happen! 
 
-Training at Command Shift (formerly Manchester Codes), has prepared me over the last 6 months to produce clear, readable code and to develop creative solutions to any challenges. I am deeply passionate about telling stories- may that be writing a novel or delivering a tech workshop or through music, and I am currently looking for entry level roles where I can continue to develop while helping a company to share their vision.
+Training at Command Shift (formerly Manchester Codes), has prepared me over the last 6 months to produce clear, readable code and to develop creative solutions to the challenges along the way. I am deeply passionate about telling stories- may that be writing a novel or delivering a tech workshop or through coding apps for users, and I am currently looking for entry level roles where I can continue to develop, while helping a company share their vision with the world.
 
 ## Projects
 
@@ -25,38 +25,39 @@ Training at Command Shift (formerly Manchester Codes), has prepared me over the 
 
 ## Skills
 
-#### Collaboration
-
-- I support honesty, clear communication and healthy feedback loops.
-- I have a very holistic understanding of my work, this helps me to support other members of my team without forgetting the team's goals and the bigger picture.
-- I have led project participants and teams to produce complex work. This involved agile project management tools such as Asana, Trello or Slack as well as delivering workshops and implementing safeguarding/diversity policies in the workplace.
-
-#### Art in the Everyday
-
-- I am very passionate about Art that merges with the technology we use everyday. This lens allows me to understand my work in front of a computer as potentially artistic.
-- I always strive to use my creative perspective when approaching challenges.
-- My artistic interest range from using Social Media in ways that was not intended to be used, to 3D modelling, video editing and writing articles about videogames, VR, AR, AI...
-
-#### Learning
-
-- I have worked as an informal educator for a long time, which has allowed me to really understand how people process information. I am extremely confident at communicating ideas (and often translating them to other, less technical, minds), presenting/public speaking and providing structure that allows people to develop and test their skills safely.
-- I am always searching for new things to read. I love learning and I will always be trying to find new skills and topics about which I can learn more.
-
-## Education
-
-#### Command Shift (Graduating March 2023)
-
+#### Tech Stack 
 - Active and independent learning
 - Problem solving
 - Javascript(ES6)
 - OOP
 - Version control via GitHub
-- Commitment to TDD
+- Commitment to TDD, SOLID Principles and RESTful API's
 - Clean, readable, maintainable code
 - Software Craftsmanship
 - HTML, Jest, Mocha, Chai, Supertest, Node.js, CSS3
 - PostgreSQL, pgAdmin4, Docker, Postman, AWS
 - React, Axios 
+
+#### Collaboration
+
+- I support honesty, clear communication and healthy feedback loops.
+- I have a very holistic understanding of my work, this helps me to support other members of my team without losing the bigger picture from sight.
+- I have led project participants and teams to produce complex work. This involved agile project management tools such as Asana, Trello or Slack as well as delivering workshops and implementing risk assessments and safeguarding/diversity policies in the workplace.
+
+#### Art in the Everyday
+
+- I am very passionate about Art that merges with the technology we use everyday.
+- I always strive to exercise creative problem solving when approaching challenges.
+- My artistic interest range from using Social Media in ways that was not intended to be used, to 3D modelling, video editing and writing articles about videogames, VR, AR, AI and their impact in shaping our society.
+
+#### Learning
+
+- I have worked as an informal educator for a long time, which has allowed me to really understand how people process information. I am extremely confident at communicating ideas (and often translating them to other, less tech savvy, minds), presenting/public speaking and providing structure that allows people to develop and test their skills safely.
+- I am always searching for new things to read. I love learning and I will always be trying to find new skills and topics about which I can learn more.
+
+## Education
+
+#### Command Shift (Graduating March 2023)
 
 #### Leeds Beckett University (September 2012 to July 2013)
 
