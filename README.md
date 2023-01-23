@@ -7,7 +7,7 @@
                                                                 
 ```
 
-[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/carlos-marfil-55875324a/)
+[SKILLS](#skills) | [EDUCATION](#education) | [PROJECTS](#projects) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/carlos-marfil-55875324a/)
 
 After working for years in the lead Art + Tech organisation in the UK (FACT Liverpool), I am expanding my career by becoming a Software Developer. As a Creative Producer at FACT, I had the chance to manage and coordinate multiple projects involving incredibly inspiring Softare Developers - watching and learning about their work appealed to my eagerness to learn and to develop as a professional. I wanted to learn how they make *the magic* happen. 
 
@@ -61,6 +61,8 @@ Training at Command Shift (formerly Manchester Codes), has prepared me over the 
 
 - BA(Hons) Contemporary Directing
 - 1:1
+
+## Experience 
 
 ## Relevant Experience
 
