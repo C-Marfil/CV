@@ -1,10 +1,10 @@
 ```
- ▄▄·  ▄▄▄· ▄▄▄  ▄▄▌        .▄▄ ·     • ▌ ▄ ·.  ▄▄▄· ▄▄▄  ·▄▄▄▪  ▄▄▌  
-▐█ ▌▪▐█ ▀█ ▀▄ █·██•  ▪     ▐█ ▀.     ·██ ▐███▪▐█ ▀█ ▀▄ █·▐▄▄·██ ██•  
-██ ▄▄▄█▀▀█ ▐▀▀▄ ██▪   ▄█▀▄ ▄▀▀▀█▄    ▐█ ▌▐▌▐█·▄█▀▀█ ▐▀▀▄ ██▪ ▐█·██▪  
-▐███▌▐█ ▪▐▌▐█•█▌▐█▌▐▌▐█▌.▐▌▐█▄▪▐█    ██ ██▌▐█▌▐█ ▪▐▌▐█•█▌██▌.▐█▌▐█▌▐▌
-·▀▀▀  ▀  ▀ .▀  ▀.▀▀▀  ▀█▄▀▪ ▀▀▀▀     ▀▀  █▪▀▀▀ ▀  ▀ .▀  ▀▀▀▀ ▀▀▀.▀▀▀ 
-                                                                                            
+ ______  ______  ______  __      ______  ______       __    __  ______  ______  ______ __  __        
+/\  ___\/\  __ \/\  == \/\ \    /\  __ \/\  ___\     /\ "-./  \/\  __ \/\  == \/\  ___/\ \/\ \       
+\ \ \___\ \  __ \ \  __<\ \ \___\ \ \/\ \ \___  \    \ \ \-./\ \ \  __ \ \  __<\ \  __\ \ \ \ \____  
+ \ \_____\ \_\ \_\ \_\ \_\ \_____\ \_____\/\_____\    \ \_\ \ \_\ \_\ \_\ \_\ \_\ \_\  \ \_\ \_____\ 
+  \/_____/\/_/\/_/\/_/ /_/\/_____/\/_____/\/_____/     \/_/  \/_/\/_/\/_/\/_/ /_/\/_/   \/_/\/_____/ 
+                                                                
 ```
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/carlos-marfil-55875324a/)
@@ -19,7 +19,7 @@ Training at Command Shift (formerly Manchester Codes), has prepared me over the 
 | :---------:  | ------------- |-------------| -------|
 | ![tripletriad](https://github.com/wemmm/My-CV/blob/master/images/concordia.png) | [Triple Triad](https://github.com/C-Marfil/triple_triad)      | Ongoing |  A vanilla Javascript version of the FF VIII card game. I am currently working on the GUI and calibrating the point system. |
 | ![virtualpet](https://github.com/wemmm/My-CV/blob/master/images/haunted.png) | [My Virtual Pet](https://github.com/C-Marfil/virtual-pet-GUI)      | 2 weeks |  A vanilla Javascript virtual pet. It grows a year per minute and if you take enough care of it, it can evolve! Tested with Jest.|
-| ![booklibrary](https://github.com/wemmm/My-CV/blob/master/images/rememberall.png) | [Book Library](https://github.com/C-Marfil/book_library.git)      | 3 weeks |  Express API that helped me brush up on routing and interacting with Databases using Sequelize. Tested with Mocha, Chai and Supertest. |
+| ![booklibrary](https://github.com/wemmm/My-CV/blob/master/images/rememberall.png) | [Book Library](https://github.com/C-Marfil/book_library.git)      | 3 weeks |  Express API that helped me brush up my skills on routing and interacting with Databases using Sequelize. Tested with Mocha, Chai and Supertest. |
 | ![followgourd](https://github.com/wemmm/My-CV/blob/master/images/mindmapp.png) | [Following The Gourd](https://github.com/charlottebrf/mytm)      | 9 months |  I produced this art piece by artist Ebun Sodipo. An interactive star map web app that archives the lived experiences of Black Trans youth. I managed/implemented most of the content through a CMS. |
 
 ## Skills
@@ -55,7 +55,7 @@ Training at Command Shift (formerly Manchester Codes), has prepared me over the 
 - Software Craftsmanship
 - HTML, Jest, Mocha, Chai, Supertest, Node.js, CSS3
 - PostgreSQL, pgAdmin4, Docker, Postman, AWS
-- React
+- React, Axios 
 
 #### Leeds Beckett University (September 2012 to July 2013)
 
