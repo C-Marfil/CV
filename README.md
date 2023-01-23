@@ -9,7 +9,7 @@
 
 [SKILLS](#skills) | [EDUCATION](#education) | [PROJECTS](#projects) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/carlos-marfil-55875324a/)
 
-After working for years in the lead Art + Tech organisation in the UK (FACT Liverpool), I am embracing tech fully and becoming a Full Stack Software Developer. As a Creative Producer at FACT, I had the chance to manage and coordinate multiple projects. Those involved, most of the time, incredibly talented Software Developers - watching and learning from them fed my curiosity, inspiring me to be better. I wanted to learn how they made *the magic* happen! 
+After working for years in the lead Art + Tech organisation in the UK (FACT Liverpool), I am embracing tech fully and becoming a Full Stack Software Developer. As a Creative Producer at FACT, I had the chance to manage and coordinate multiple projects. Those involved incredibly talented Software Developers most of the time - watching and learning from them fed my curiosity, inspiring me to be better. I wanted to learn how they made *the magic* happen!
 
 Training at Command Shift (formerly Manchester Codes), has prepared me over the last 6 months to produce clear, readable code and to develop creative solutions to the challenges along the way. I am deeply passionate about telling stories- may that be writing a novel or delivering a tech workshop or through coding apps for users, and I am currently looking for entry level roles where I can continue to develop, while helping a company share their vision with the world.
 
@@ -26,17 +26,24 @@ Training at Command Shift (formerly Manchester Codes), has prepared me over the 
 ## Skills
 
 #### Tech Stack 
-- Active and independent learning
-- Problem solving
+- HTML
+- Jest, Mocha, Chai, Supertest
+- Node.js, Express
+- CSS3
+- PostgreSQL, pgAdmin4, Docker, Postman
+- AWS
+- React, Axios 
 - Javascript(ES6)
+- Git, npm
+
+
 - OOP
+- Active and independent learning
 - Version control via GitHub
 - Commitment to TDD, SOLID Principles and RESTful API's
 - Clean, readable, maintainable code
 - Keen interest in Software Craftsmanship
-- HTML, Jest, Mocha, Chai, Supertest, Node.js, CSS3
-- PostgreSQL, pgAdmin4, Docker, Postman, AWS
-- React, Axios 
+
 
 #### Collaboration
 
@@ -66,11 +73,8 @@ Training at Command Shift (formerly Manchester Codes), has prepared me over the 
 
 ## Experience 
 
-## Relevant Experience
-
 **FACT LIVERPOOL** (Jan 2017 to Aug 2022)    
 *Creative Producer*  
-
 *Facilitator*  
 
 ## Interests
