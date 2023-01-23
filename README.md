@@ -15,10 +15,10 @@ Training at Command Shift (formerly Manchester Codes), has prepared me over the 
 
 ## Projects
 
-| ![buffer](https://github.com/wemmm/My-CV/blob/master/images/tablebuffer.png)![buffer](https://github.com/wemmm/My-CV/blob/master/images/tablebuffer.png) | Title        | Timeframe          | What is it? | 
+| ![buffer](https://github.com/C-Marfil/CV/blob/main/images/tablebuffer.png)![buffer](https://github.com/C-Marfil/CV/blob/main/images/tablebuffer.png) | Title        | Timeframe          | What is it? | 
 | :---------:  | ------------- |-------------| -------|
 | ![tripletriad](https://github.com/wemmm/My-CV/blob/master/images/concordia.png) | [Triple Triad](https://github.com/C-Marfil/triple_triad)      | Ongoing |  A vanilla Javascript version of the FF VIII card game. I am currently working on the GUI and calibrating the point system. |
-| ![virtualpet](https://github.com/wemmm/My-CV/blob/master/images/haunted.png) | [My Virtual Pet](https://github.com/C-Marfil/virtual-pet-GUI)      | 2 weeks |  A vanilla Javascript virtual pet. It grows a year per minute and if you take enough care of it, it can evolve! Tested with Jest.|
+| ![virtualpet](https://github.com/C-Marfil/CV/blob/main/images/virtualpet.png) | [My Virtual Pet](https://github.com/C-Marfil/virtual-pet-GUI)      | 2 weeks |  A vanilla Javascript virtual pet. It grows a year per minute and if you take enough care of it, it can evolve! Tested with Jest.|
 | ![booklibrary](https://github.com/wemmm/My-CV/blob/master/images/rememberall.png) | [Book Library](https://github.com/C-Marfil/book_library.git)      | 3 weeks |  Express API that helped me brush up my skills on routing and interacting with Databases using Sequelize. Tested with Mocha, Chai and Supertest. |
 | ![followgourd](https://github.com/wemmm/My-CV/blob/master/images/mindmapp.png) | [Following The Gourd](https://github.com/charlottebrf/mytm)      | 9 months |  I produced this art piece by artist Ebun Sodipo. An interactive star map web app that archives the lived experiences of Black Trans youth. I managed/implemented most of the content through a CMS. |
 
