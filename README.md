@@ -33,7 +33,7 @@ Training at Command Shift (formerly Manchester Codes), has prepared me over the 
 - Version control via GitHub
 - Commitment to TDD, SOLID Principles and RESTful API's
 - Clean, readable, maintainable code
-- Software Craftsmanship
+- Keen interest in Software Craftsmanship
 - HTML, Jest, Mocha, Chai, Supertest, Node.js, CSS3
 - PostgreSQL, pgAdmin4, Docker, Postman, AWS
 - React, Axios 
